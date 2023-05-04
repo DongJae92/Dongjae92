@@ -22,7 +22,7 @@
 # GitHub Stats
 <div align="center">
   
-![DonJgae92's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonJgae92K&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+![DonJgae92's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonJgae92&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonJgae92&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
