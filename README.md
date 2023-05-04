@@ -22,8 +22,8 @@
 # GitHub Stats
 <div align="center">
   
-![Donjgae92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donjgae92K&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donjgae92&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![DonJgae92's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonJgae92K&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonJgae92&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
@@ -34,7 +34,7 @@
 </div>
 
 <!--
-**Donjgae92/Donjgae92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DonJgae92/DonJgae92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
